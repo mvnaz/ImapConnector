@@ -1,5 +1,8 @@
 {
   "name": "mvnaz/imapconnector",
+  "require": {
+    "zbateson/mail-mime-parser": "*"
+  },
   "autoload": {
     "psr-4" : {
       "Mvnaz\\ImapConnector\\" : "src/"
