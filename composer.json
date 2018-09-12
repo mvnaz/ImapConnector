@@ -2,7 +2,7 @@
   "name": "mvnaz/imapconnector",
   "autoload": {
     "psr-4" : {
-      "Mvnaz\\ImapConnector" : "src"
+      "Mvnaz\\ImapConnector\\" : "src/"
     }
   }
 }
