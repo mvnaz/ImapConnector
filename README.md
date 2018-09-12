@@ -1,6 +1,6 @@
 # mvnaz/imapconnector
 
-This package allows you to connect to proxy via proxy.
+This package allows you to connect to imap protocol via proxy.
 
 Good qualities:
 * Package is very flexible, you can replace any element with your own (ResponseContainer, Parser, Commander, implement your own proxy types)
